@@ -1,0 +1,23 @@
+{
+  "name": "prismarine-module-flatland",
+  "version": "0.0.0",
+  "description": "A flatland world generator for PrismarineJS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wtfaremyinitials/prismarine-module-flatland.git"
+  },
+  "keywords": [
+    "flatland",
+    "prismarine"
+  ],
+  "author": "Will Franzen <wtfranzen@gmail.com> (http://will.xyz/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wtfaremyinitials/prismarine-module-flatland/issues"
+  },
+  "homepage": "https://github.com/wtfaremyinitials/prismarine-module-flatland",
+  "dependencies": {
+    "prismarine-chunk": "0.0.3"
+  }
+}
